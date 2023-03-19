@@ -2,7 +2,7 @@
 	display: grid;
     max-width: 60vw;
     border: 5px solid black;
-	grid-template-columns: calc(50vw*0.45) calc(60vw*0.45);
+	grid-template-columns: calc(60vw*0.45) calc(60vw*0.45);
 	grid-gap: 20px;
 	padding: 20px;
 	margin: 20px;
