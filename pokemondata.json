@@ -4,4 +4,13 @@
         "blurb": "Lorem Ipsum",    
         "type": "Grass/Fairy",    
         "height": "0.4 m",    
-        "weight": "6.0 kg"  }]
+        "weight": "6.0 kg"  },
+
+        {    "name": "Rab2",    
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/002.png",
+        "entry": "Rabbit Pokemon",    
+        "blurb": "Lorem Ipsum",    
+        "type": "Grass/Fairy",    
+        "height": "0.4 m",    
+        "weight": "6.0 kg"  }
+]

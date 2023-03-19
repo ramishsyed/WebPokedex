@@ -8,6 +8,15 @@ fetch('https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/pokemondata.
             type: data[0].type;
             height: data[0].height;
             weight: data[0].width;
+            const dropdown = document.getElementById('pokemon-dropdown');
+            data.forEach(data => {
+                const option = document.createElement('option');
+                option.value = data.name;
+                console.log(option.value);
+                option.text = data.name;
+                console.log(option.text);
+                dropdown.add(option);
+              });
             document.getElementById("pokemon-name").innerHTML = data[0].name;
             document.getElementById("pokemon-image").src = data[0].image;
             document.getElementById("pokedex-entry").innerHTML = data[0].entry;
