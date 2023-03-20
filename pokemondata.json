@@ -1,16 +1,655 @@
-[  {    "name": "Rab1",    
-        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/001.png",
-        "entry": "Rabbit Pokemon",    
-        "blurb": "Lorem Ipsum",    
-        "type": "Grass/Fairy",    
-        "height": "0.4 m",    
-        "weight": "6.0 kg"  },
+[  {
+        "name": "001",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(1).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "002",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(2).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "003",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(3).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "004",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(4).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "005",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(5).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "006",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(6).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "007",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(7).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "008",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(8).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "009",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(9).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
+      {
+        "name": "010",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(10).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+      },
 
-        {    "name": "Rab2",    
-        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/002.png",
-        "entry": "Rabbit Pokemon",    
-        "blurb": "Lorem Ipsum",    
-        "type": "Grass/Fairy",    
-        "height": "0.4 m",    
-        "weight": "6.0 kg"  }
+        {
+        "name": "011",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(11).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "012",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(12).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "013",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(13).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "014",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(14).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "015",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(15).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "016",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(16).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "017",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(17).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "018",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(18).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        {
+        "name": "019",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(19).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+         
+        {
+        "name": "020",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(20).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+        
+        {
+        "name": "021",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(21).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+
+        {
+        "name": "022",
+        "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(22).png",
+        "entry": "Placeholder",
+        "blurb": "Placeholder",
+        "type": "Placeholder",
+        "height": "0.0 m",
+        "weight": "0.0 kg"
+        },
+
+        {
+                "name": "023",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(23).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "024",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(24).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "025",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(25).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "026",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(26).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "027",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(27).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "028",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(28).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "029",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(29).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "030",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(30).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "031",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(31).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "032",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(32).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "033",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(33).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "034",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(34).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "035",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(35).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "036",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(36).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "037",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(37).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "038",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(38).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "039",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(39).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "040",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(40).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "041",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(41).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "042",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(42).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "043",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(43).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "044",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(44).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "045",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(45).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "046",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(46).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "047",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(47).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "048",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(48).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "049",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(49).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "050",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(50).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "051",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(51).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "052",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(52).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "053",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(53).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "054",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(54).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "055",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(55).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "056",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(56).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "057",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(57).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "058",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(58).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "059",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(59).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "060",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(60).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "061",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(61).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "062",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(62).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "063",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(64).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "064",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(64).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "065",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(65).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "066",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(66).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        },
+
+        {
+                "name": "067",
+                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/(67).png",
+                "entry": "Placeholder",
+                "blurb": "Placeholder",
+                "type": "Placeholder",
+                "height": "0.0 m",
+                "weight": "0.0 kg"
+        }
+
+      
 ]
