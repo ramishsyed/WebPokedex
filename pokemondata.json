@@ -880,14 +880,5 @@
                 "type": "Placeholder",
                 "height": "0.0 m",
                 "weight": "0.0 kg"
-              },
-              {
-                "name": "093",
-                "image": "https://raw.githubusercontent.com/ramishsyed/WebPokedex/main/individual%20sprites/%20(93).png",
-                "entry": "Placeholder",
-                "blurb": "Placeholder",
-                "type": "Placeholder",
-                "height": "0.0 m",
-                "weight": "0.0 kg"
               }
             ]
